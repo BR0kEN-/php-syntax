@@ -1,0 +1,9 @@
+# PHPStorm workspace
+.idea/
+
+# Private workspace
+.workspace/
+
+# Windows workspace
+Thumbs.db
+Desktop.ini
