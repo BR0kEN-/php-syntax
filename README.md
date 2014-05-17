@@ -4,7 +4,7 @@ PHP syntax of latest versions for Sublime Text
 
 # Usage
 
-Replace the PHP.tmLanguage file in the packages directory.
+Replace the [PHP.tmLanguage](https://github.com/BR0kEN-/php-syntax/blob/master/PHP.tmLanguage) file in the packages directory.
 
 OS | Destination
 --- | ---
