@@ -14,4 +14,4 @@ Windows | C:\Users\<USERNAME>\AppData\Roaming\Sublime Text 2\Packages\PHP
 
 Open the [code.php](https://github.com/BR0kEN-/php-syntax/blob/master/example/code.php) in your Sublime Text and feel the difference.
 
-![Usage demonstration](https://raw.githubusercontent.com/BR0kEN-/php-syntax/master/usage.png?raw=true)
+![Usage demonstration](https://raw.githubusercontent.com/BR0kEN-/php-syntax/master/example/usage.png?raw=true)
